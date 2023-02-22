@@ -19,9 +19,9 @@
       "id": 4
     },
     {
-      "text": "Tea party",
-      "day": "4PM Wednesday",
-      "reminder": false,
+      "text": "Pick up kids",
+      "day": "Every afternoon at 3:00 PM",
+      "reminder": true,
       "id": 5
     }
   ]
